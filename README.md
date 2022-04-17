@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @atdance
 - 👀 I’m interested in empaty
 - 🌱 I’m currently learning Blockchain
-- 💞️ I’m looking to collaborate on progess
+- 💞️ I’m looking to collaborate on progress
 - 📫 How to reach me : grand hotel
 
 <!---
